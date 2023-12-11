@@ -1,4 +1,2 @@
-# Jatek
-
-szerializálás(serializable)
-tervezési minta(design pattern)
+# szerializálás(serializable)
+# tervezési minta(design pattern)
